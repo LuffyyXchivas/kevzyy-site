@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://kevzyy:egei5241@cluster0.xcgdh.mongodb.net/?retryWrites=true&w=majority",
+  "clientID": "1041404751885107231",
+  "token": "MTA0MTQwNDc1MTg4NTEwNzIzMQ.Gbz75b.sYS9daiOAmAkRkG7WTCe5aXWeQHQ1H_LvFlE-8",
+  "secret": "F-rkGlyeIRSa0OnF7qiTfZMDg_DoAjmk",
+  "callbackURL": "https://deadpan-puzzling-wrench.glitch.me/callback"
+}
